@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Fahmi-Ghanmi
-- 👀 I’m interested in chess/music..
+- 👀 I’m interested in chess/music/sports
 - 🌱 I’m currently learning software testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: WhatsApp:+21628612621
+  
 
 <!---
 Fahmi-Ghanmi/Fahmi-Ghanmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
